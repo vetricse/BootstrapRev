@@ -1,0 +1,15 @@
+.card{
+    border:5px solid yellow;
+    border-radius: 20px;
+}
+.btn{
+    justify-content: center;
+    background-color: black;
+}
+p{
+    color: yellow;
+}
+p :hover{
+    background-color: yellow;
+    color:white;
+}
