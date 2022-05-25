@@ -1,4 +1,4 @@
-.card{
+/* .card{
     border:5px solid yellow;
     border-radius: 20px;
 }
@@ -14,4 +14,36 @@
 .btn:hover{
     background-color: black;
     color:white;
-  }
+} */
+img{
+    width: 100px;
+    height: 130px;
+    margin-right:none;
+    justify-content:right;
+}
+@media(min-width:576px){
+
+}
+@media(min-width:768px){
+   p{
+       background-color: aquamarine;
+   }
+   img{
+    visibility: hidden;
+   } 
+}
+
+@media(min-width:1200px){
+    p{
+        background-color:burlywood;
+    } 
+    img{
+        visibility: hidden;
+    } 
+ }
+
+ @media(min-width:1400px){
+    p{
+        background-color: aquamarine;
+    } 
+ }
