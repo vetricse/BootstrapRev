@@ -2,14 +2,16 @@
     border:5px solid yellow;
     border-radius: 20px;
 }
+.button{
+    text-align: center;
+  }
 .btn{
-    justify-content: center;
     background-color: black;
+    color:yellow;
+
 }
-p{
-    color: yellow;
-}
-p :hover{
-    background-color: yellow;
+
+.btn:hover{
+    background-color: black;
     color:white;
-}
+  }
